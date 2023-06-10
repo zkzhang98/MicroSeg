@@ -34,6 +34,8 @@ path_to_your_dataset/
         proposal_adeval/
 ```
 You can get [proposal100](https://drive.google.com/file/d/1FxoyVa0I1IEwtW2ykGlNf-JkOYkK80E6/view?usp=sharing), [proposal_adetrain](https://drive.google.com/file/d/1kWfPNhoUnYz0uPuHJUALxiqvVqlCKrwW/view?usp=sharing), [proposal_adeval](https://drive.google.com/file/d/16xNMO4siqJXr5A03ywQDXU0F1Ld5OFtw/view?usp=sharing) here.
+
+Baidu Net Disk link: https://pan.baidu.com/s/1WzIwB0ZuJOLvPFnbzRjldA?pwd=dbue
 ## Startup
 
 We provide `script_train.py` to help to use our method. For example, you can train MicroSeg-M in default config with the following command:
